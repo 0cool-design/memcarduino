@@ -5,7 +5,7 @@
 * Martin Korth of the NO$PSX - documented Memory Card protocol.
 * Andrew J McCubbin - documented PS1 SPI interface.
 
-<img src="/img/1.jpg" alt="badusb" style="width:200px;"><img src="pinout.jpg" alt="Pinout" style="width:200px;">
+<img src="pinout.jpg" alt="Pinout">
 ## Connecting a Memory Card to Arduino:
     Looking at the Memory Card:
     _________________
