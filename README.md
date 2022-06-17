@@ -7,6 +7,7 @@
 
 
 ## Connecting a Memory Card to Arduino:
+<img src="img/pcb.jpeg" alt="Pinout">
 ### Looking at the Memory Card:
 
 <img src="img/pinout.jpg" alt="Pinout">
