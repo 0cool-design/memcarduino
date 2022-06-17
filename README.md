@@ -63,6 +63,7 @@ Changing the baudrate isn't recommended, but is available anyway (it does mean c
 
 <img src="img/ledmod01.jpg" alt="LED mod">
 <img src="img/ledmod02.jpg" alt="LED mod">
+
 * The (+) LED connected to (5) 3.5V
 * The (-) LED connected to (9) ACK
 
