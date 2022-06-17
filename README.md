@@ -6,6 +6,7 @@
 * Andrew J McCubbin - documented PS1 SPI interface.
 
 <img src="pinout.jpg" alt="Pinout">
+
 ## Connecting a Memory Card to Arduino:
     Looking at the Memory Card:
     _________________
