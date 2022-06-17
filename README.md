@@ -9,7 +9,7 @@
 ## Connecting a Memory Card to Arduino:
 ### Looking at the Memory Card:
 
-<img src="pinout.jpg" alt="Pinout">
+<img src="img/pinout.jpg" alt="Pinout">
 
 1. DATA - Pin 12 on Arduino
 2. CMND - Pin 11 on Arduino
@@ -56,6 +56,17 @@ The python script is designed to raw copy the Memory Card data to PC and vice ve
 
 This requires a serial port (/dev/ttyACM0 for Arduino uno's, /dev/ttyUSBX for others, COMX for Windows, and various for macOS) it also requires a specific output file.
 Changing the baudrate isn't recommended, but is available anyway (it does mean changing the Arduino code manually...)
+
+## LED mod
+
+<img src="img/ledmod01.jpg" alt="LED mod">
+<img src="img/ledmod02.jpg" alt="LED mod">
+* The (+) LED connected to (5) 3.5V
+* The (-) LED connected to (9) ACK
+
+## sio2sd
+<img src="img/sio2sd01.jpg" alt="sio2sd">
+<img src="img/sio2sd02.png" alt="sio2sd">
 
 ## Python TODO:
 * Read/Write individual saves
