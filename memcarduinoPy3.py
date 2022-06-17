@@ -4,7 +4,7 @@
 #a simple command line tool for quick dumping of psx memory cards connected to a serially connected MemCARDuino project
 # made by Jason D'Amico on the 28/12/2014
 #	mr-fuji on 21/03/2015
-# Python 3 compatibility added by Hamood on 17/06/2022
+# Python 3 compatibility added by Hamood @0_co0l on 17/06/2022
 #use and modification of this script is allowed, if improved do send a copy back.
 #use at own risk, not my fault if burns down house or erases card (it shouldn't, but...)
 
