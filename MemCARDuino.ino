@@ -1,5 +1,5 @@
 /*
-  MemCARDuino - Arduino PlayStation 1 Memory Card reader
+  MemCARDuino - Arduino PlayStation 1/2 Memory Card reader
   Shendo 2013. - 2016.
 
   Compatible with Arduino/Genuino Uno, Duemilanove, Diecimila, Nano, Mini,
