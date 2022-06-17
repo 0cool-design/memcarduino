@@ -1,17 +1,15 @@
 # MemCARDuino
-### Arduino PlayStation 1 Memory Card reader
+### Arduino PlayStation 1/2 Memory Card reader
 
 ## Thanks to:
 * Martin Korth of the NO$PSX - documented Memory Card protocol.
 * Andrew J McCubbin - documented PS1 SPI interface.
 
-<img src="pinout.jpg" alt="Pinout">
 
 ## Connecting a Memory Card to Arduino:
-    Looking at the Memory Card:
-    _________________
-    |_ _|_ _ _|_ _ _|
-     1 2 3 4 5 6 7 8
+# Looking at the Memory Card:
+
+<img src="pinout.jpg" alt="Pinout">
 
 1. DATA - Pin 12 on Arduino
 2. CMND - Pin 11 on Arduino
