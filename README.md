@@ -71,7 +71,7 @@ Changing the baudrate isn't recommended, but is available anyway (it does mean c
 <img src="img/sio2sd01.jpg" alt="sio2sd">
 <img src="img/sio2sd02.png" alt="sio2sd">
 
-## Python TODO:
+## TODO:
 * Read/Write individual saves
 * Add a man page for the script
 * Refine comments, readme and script
